@@ -2,8 +2,6 @@
 ### A FIGHTING GAME ABOUT HIGH SCHOOL KIDS FIGHTING IN THE SMOKE PIT
 _AIDAN SMALLBONE 2017_
 
-![Logo.png]({{site.baseurl}}/Logo.png)
-
 ## CREATING THE GAME
 
 THIS GAME IS MY FINAL PROJECT FOR A PROGRAMMING 3U CLASS.
@@ -32,19 +30,6 @@ THE GAME IS TO BE USED IN AN ARCADE CABINET WITH A RESOLUTION OF _1024x768_, SO 
 
 I WILL UPDATE THIS SECTION AS WORK GETS DONE, BUT THE COMMIT NOTES WILL ALSO TALK ABOUT WHAT I'VE DONE SO FAR.
 
-**ART ASSETS:**
-
-HERE IS SOME OF THE ARTWORK I ALREADY HAVE FINISHED TO GIVE AN IDEA FOR THE FEEL I AM GOING FOR:
-
-![scssselect.png]({{site.baseurl}}/scssselect.png)
-
-![nwselect.png]({{site.baseurl}}/nwselect.png)
-
-![Sprite-0001.png]({{site.baseurl}}/Sprite-0001.png)
-
-![]({{site.baseurl}}//Central%20Background.png)![Central Background.png]({{site.baseurl}}/Central Background.png)
-
-![Northwestern Background.png]({{site.baseurl}}/Northwestern Background.png)
 
 
 
